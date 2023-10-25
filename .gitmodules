@@ -1,0 +1,3 @@
+[submodule "next-frontend"]
+	path = next-frontend
+	url = https://github.com/victorstefan28/next-frontend
