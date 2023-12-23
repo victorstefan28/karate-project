@@ -1,3 +1,6 @@
 [submodule "next-frontend"]
 	path = next-frontend
 	url = https://github.com/victorstefan28/next-frontend
+[submodule "dotNet-backend"]
+	path = dotNet-backend
+	url = https://github.com/omacelaru/dotNet-backend
