@@ -27,7 +27,7 @@ This project aims to create a comprehensive Karate Club Management System using 
 - Display rankings based on points earned by athletes.
 
 ## Database diagram
-![image](documentation/images/database_karate_diagrams.png)
+![image]([documentation/images/database_karate_diagrams.png](https://github.com/omacelaru/dotNet-backend/blob/master/documentation/images/database_karate_diagrams.png))
 
 ## How to create Database in SQL Server
 
@@ -77,7 +77,7 @@ Click Test Connection
 Click OK
 ```
 
-![image](documentation/images/connection-db.png)
+![image]([documentation/images/connection-db.png](https://github.com/omacelaru/dotNet-backend/blob/master/documentation/images/connection-db.png))
 
 ### Connection String
 ```
