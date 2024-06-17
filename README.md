@@ -56,7 +56,7 @@ This project aims to create a comprehensive Karate Club Management System using 
 
 ## Workflow Chart
 
-![image](images/workflow-chart.png)
+![image](images/workflow-chart.jpg)
 
 ## Backend (.NET API)
 
